@@ -1,0 +1,14 @@
+/Users/terence/source/repos/c-sharp-msft-learn-calculate-sum-assignment-scores/calculate-sum-assignment-scores/bin/Debug/net7.0/calculate-sum-assignment-scores
+/Users/terence/source/repos/c-sharp-msft-learn-calculate-sum-assignment-scores/calculate-sum-assignment-scores/bin/Debug/net7.0/calculate-sum-assignment-scores.deps.json
+/Users/terence/source/repos/c-sharp-msft-learn-calculate-sum-assignment-scores/calculate-sum-assignment-scores/bin/Debug/net7.0/calculate-sum-assignment-scores.runtimeconfig.json
+/Users/terence/source/repos/c-sharp-msft-learn-calculate-sum-assignment-scores/calculate-sum-assignment-scores/bin/Debug/net7.0/calculate-sum-assignment-scores.dll
+/Users/terence/source/repos/c-sharp-msft-learn-calculate-sum-assignment-scores/calculate-sum-assignment-scores/bin/Debug/net7.0/calculate-sum-assignment-scores.pdb
+/Users/terence/source/repos/c-sharp-msft-learn-calculate-sum-assignment-scores/calculate-sum-assignment-scores/obj/Debug/net7.0/calculate-sum-assignment-scores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/terence/source/repos/c-sharp-msft-learn-calculate-sum-assignment-scores/calculate-sum-assignment-scores/obj/Debug/net7.0/calculate-sum-assignment-scores.AssemblyInfoInputs.cache
+/Users/terence/source/repos/c-sharp-msft-learn-calculate-sum-assignment-scores/calculate-sum-assignment-scores/obj/Debug/net7.0/calculate-sum-assignment-scores.AssemblyInfo.cs
+/Users/terence/source/repos/c-sharp-msft-learn-calculate-sum-assignment-scores/calculate-sum-assignment-scores/obj/Debug/net7.0/calculate-sum-assignment-scores.csproj.CoreCompileInputs.cache
+/Users/terence/source/repos/c-sharp-msft-learn-calculate-sum-assignment-scores/calculate-sum-assignment-scores/obj/Debug/net7.0/calculate-sum-assignment-scores.dll
+/Users/terence/source/repos/c-sharp-msft-learn-calculate-sum-assignment-scores/calculate-sum-assignment-scores/obj/Debug/net7.0/refint/calculate-sum-assignment-scores.dll
+/Users/terence/source/repos/c-sharp-msft-learn-calculate-sum-assignment-scores/calculate-sum-assignment-scores/obj/Debug/net7.0/calculate-sum-assignment-scores.pdb
+/Users/terence/source/repos/c-sharp-msft-learn-calculate-sum-assignment-scores/calculate-sum-assignment-scores/obj/Debug/net7.0/calculate-sum-assignment-scores.genruntimeconfig.cache
+/Users/terence/source/repos/c-sharp-msft-learn-calculate-sum-assignment-scores/calculate-sum-assignment-scores/obj/Debug/net7.0/ref/calculate-sum-assignment-scores.dll

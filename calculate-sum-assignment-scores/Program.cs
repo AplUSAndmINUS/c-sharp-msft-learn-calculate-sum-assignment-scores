@@ -73,7 +73,8 @@ jeongScore = averageScore(jeongSum, currentAssignments);
 // Console.WriteLine("Jeong: " + jeongSum);
 
 // write out the average scores
-Console.WriteLine($"Sophia: {sophiaScore} {getLetterGrade(sophiaScore)}");
-Console.WriteLine($"Nicolas: {nicolasScore} {getLetterGrade(nicolasScore)}");
-Console.WriteLine($"Zahirah: {zahirahScore} {getLetterGrade(zahirahScore)}");
-Console.WriteLine($"Jeong: {jeongScore} {getLetterGrade(jeongScore)}");
+Console.WriteLine("Student\t\tGrade\n");
+Console.WriteLine($"Sophia: \t{sophiaScore} \t{getLetterGrade(sophiaScore)}");
+Console.WriteLine($"Nicolas: \t{nicolasScore} \t{getLetterGrade(nicolasScore)}");
+Console.WriteLine($"Zahirah: \t{zahirahScore} \t{getLetterGrade(zahirahScore)}");
+Console.WriteLine($"Jeong: \t\t{jeongScore} \t{getLetterGrade(jeongScore)}");
